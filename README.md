@@ -1,11 +1,10 @@
-# Udacity React Nanodegree Project 3
-> Udacicards: A Mobile Flashcard App
+# Udacity React Nanodegree Mobile Flashcard App Project
+> AnshulikaMobileFlashcards: A Mobile Flashcard App
 
-## Why this project?
+## Mobile Flash cards
 
-From Udacity Project Details:
+My submission for Udacity React Native course's assignment Mobile Flashcard
 
-"This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input."
 
 ## Usage
 
