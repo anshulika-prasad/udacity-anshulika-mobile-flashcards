@@ -27,16 +27,8 @@ export default class AddEntry extends React.Component {
         errorMessage: false,
         titleText: ''
       });
-      // this.props.navigation.navigate(
-      //   'DeckDetail',
-      //   {
-      //     entryId: titleText,
-      //     navTitle: titleText
-      //   },
-      //   Keyboard.dismiss()
-      // );
       this.props.navigation.navigate(
-        'Home',
+        'DeckDetail',
         {
           entryId: titleText,
           navTitle: titleText

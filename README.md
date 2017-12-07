@@ -3,8 +3,7 @@
 
 ## Mobile Flash cards
 
-My submission for Udacity React Native course's assignment Mobile Flashcard
-
+My submission for Udacity React Native course's assignment Mobile Flashcard.
 
 ## Usage
 
@@ -27,3 +26,7 @@ The most recent version of this guide is available [here](https://github.com/rea
 
 - Left and right swipe for submitting answer in Quiz
 - Edit / delete questions from card deck
+
+##### Note
+This app is mainly tested for android but should work properly for iOS as well.
+ 
